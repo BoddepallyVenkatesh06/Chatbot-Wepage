@@ -2,9 +2,15 @@
 
 A simple demo chat app built on [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/) and [Socket.io](https://socket.io/).
 
-## Demo
+## Demo & Screenshot
 
 https://owan-nodejs-chat-app.herokuapp.com
+
+![alt text](https://github.com/BoddepallyVenkatesh06/Chatbot-Wepage/blob/619eebcce5d96e628ee7dbe635823c929f810549/Screenshot%202022-09-03%20at%208.41.20%20PM.png)
+
+![alt text]()
+
+![alt text]()
 
 ## Pre-requisites
 
