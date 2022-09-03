@@ -8,10 +8,9 @@ https://owan-nodejs-chat-app.herokuapp.com
 
 ![alt text](https://github.com/BoddepallyVenkatesh06/Chatbot-Wepage/blob/619eebcce5d96e628ee7dbe635823c929f810549/Screenshot%202022-09-03%20at%208.41.20%20PM.png)
 
-![alt text]()
+![alt text](https://github.com/BoddepallyVenkatesh06/Chatbot-Wepage/blob/2feda7e983e744cad039ffde25bedb2cd1c156a5/Screenshot%202022-09-03%20at%208.43.16%20PM.png)
 
-![alt text]()
-
+![alt text](https://github.com/BoddepallyVenkatesh06/Chatbot-Wepage/blob/2feda7e983e744cad039ffde25bedb2cd1c156a5/Material-Messaging-App-Concept.jpg)
 ## Pre-requisites
 
 To setup and run the project for local development / testing, you will need to use Node.js and NPM. I don't explicitly specify a minimum Node.js/NPM version for the app but I recommend going with whatever the latest LTS version is at the point in time you are setting things up. The minimum vesion of Node.js that I have tested this app on is **10.16.3**.
